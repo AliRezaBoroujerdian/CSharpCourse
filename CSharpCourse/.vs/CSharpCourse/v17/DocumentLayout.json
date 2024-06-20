@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Course\\CSharp\\v2\\Source Code\\CSharpCourse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DBD79D2D-E308-4050-9B0E-8F5C722BBF58}|S002.Write\\P2.WriteLine\\P2.WriteLine.csproj|e:\\course\\csharp\\v2\\source code\\csharpcourse\\s002.write\\p2.writeline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DBD79D2D-E308-4050-9B0E-8F5C722BBF58}|S002.Write\\P2.WriteLine\\P2.WriteLine.csproj|solutionrelative:s002.write\\p2.writeline\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{991BE795-C731-4FB2-ACA9-9C0D57240A2A}|S003.Comment\\P1\\P1.csproj|e:\\course\\csharp\\v2\\source code\\csharpcourse\\s003.comment\\p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991BE795-C731-4FB2-ACA9-9C0D57240A2A}|S003.Comment\\P1\\P1.csproj|solutionrelative:s003.comment\\p1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Course\\CSharp\\v2\\Source Code\\CSharpCourse\\S002.Write\\P2.WriteLine\\Program.cs",
-              "RelativeDocumentMoniker": "S002.Write\\P2.WriteLine\\Program.cs",
-              "ToolTip": "E:\\Course\\CSharp\\v2\\Source Code\\CSharpCourse\\S002.Write\\P2.WriteLine\\Program.cs",
-              "RelativeToolTip": "S002.Write\\P2.WriteLine\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentMoniker": "E:\\Course\\CSharp\\v2\\Source Code\\CSharpCourse\\S003.Comment\\P1\\Program.cs",
+              "RelativeDocumentMoniker": "S003.Comment\\P1\\Program.cs",
+              "ToolTip": "E:\\Course\\CSharp\\v2\\Source Code\\CSharpCourse\\S003.Comment\\P1\\Program.cs",
+              "RelativeToolTip": "S003.Comment\\P1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-20T15:48:57.499Z",
+              "WhenOpened": "2024-06-20T16:00:20.036Z",
               "EditorCaption": ""
             }
           ]
