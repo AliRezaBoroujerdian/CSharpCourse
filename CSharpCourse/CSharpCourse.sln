@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1.Chaos", "S004.FormatDocu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2.Format", "S004.FormatDocument\P2.Format\P2.Format.csproj", "{58A8D137-E5C2-412D-A890-F6D465628992}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "S005.Variable", "S005.Variable", "{C33BA75B-1A6F-4229-895B-72EFFA561B52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
