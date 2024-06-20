@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1", "S003.Comment\P1\P1.cs
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1.Chaos", "S004.FormatDocument\P1.Chaos\P1.Chaos.csproj", "{DEB3536F-9719-4EDB-8D8F-4B784B648D24}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2.Format", "S004.FormatDocument\P2.Format\P2.Format.csproj", "{58A8D137-E5C2-412D-A890-F6D465628992}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{DEB3536F-9719-4EDB-8D8F-4B784B648D24}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DEB3536F-9719-4EDB-8D8F-4B784B648D24}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DEB3536F-9719-4EDB-8D8F-4B784B648D24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58A8D137-E5C2-412D-A890-F6D465628992}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58A8D137-E5C2-412D-A890-F6D465628992}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58A8D137-E5C2-412D-A890-F6D465628992}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58A8D137-E5C2-412D-A890-F6D465628992}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +70,7 @@ Global
 		{DBD79D2D-E308-4050-9B0E-8F5C722BBF58} = {7CA39CD8-B528-44B6-876D-DD8E567AE798}
 		{991BE795-C731-4FB2-ACA9-9C0D57240A2A} = {5A5EE68E-FC37-4A43-8485-1341BB2B45AF}
 		{DEB3536F-9719-4EDB-8D8F-4B784B648D24} = {B05933F0-EC23-47CB-B531-C34996C3BE84}
+		{58A8D137-E5C2-412D-A890-F6D465628992} = {B05933F0-EC23-47CB-B531-C34996C3BE84}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5E690C0A-E129-454E-B795-6E4156276271}
