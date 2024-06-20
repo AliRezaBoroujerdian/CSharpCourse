@@ -7,7 +7,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "S001.ProjectOverview", "S00
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1.Do not use top-level statements", "S001.ProjectOverview\P1.Do not use top-level statements\P1.Do not use top-level statements.csproj", "{DA5630DD-012B-49BE-BDA7-60842F826A89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1.Use top-level statements", "S001.ProjectOverview\P1.Use top-level statements\P1.Use top-level statements.csproj", "{D3E19631-FBF8-4902-B413-0CC5C08952C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2.Use top-level statements", "S001.ProjectOverview\P1.Use top-level statements\P2.Use top-level statements.csproj", "{D3E19631-FBF8-4902-B413-0CC5C08952C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
