@@ -5,9 +5,9 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "S001.ProjectOverview", "S001.ProjectOverview", "{9DC1923F-6C6B-41E6-8425-70D2007BDFE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P1.Do not use top-level statements", "S001.ProjectOverview\P1.Do not use top-level statements\P1.Do not use top-level statements.csproj", "{DA5630DD-012B-49BE-BDA7-60842F826A89}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "P1.Do not use top-level statements", "S001.ProjectOverview\P1.Do not use top-level statements\P1.Do not use top-level statements.csproj", "{DA5630DD-012B-49BE-BDA7-60842F826A89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2.Use top-level statements", "S001.ProjectOverview\P1.Use top-level statements\P2.Use top-level statements.csproj", "{D3E19631-FBF8-4902-B413-0CC5C08952C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P2.Use top-level statements", "S001.ProjectOverview\P2.Use top-level statements\P2.Use top-level statements.csproj", "{8C9E7A80-27DC-429E-AB7C-31A72147A0B0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,17 +19,17 @@ Global
 		{DA5630DD-012B-49BE-BDA7-60842F826A89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DA5630DD-012B-49BE-BDA7-60842F826A89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DA5630DD-012B-49BE-BDA7-60842F826A89}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D3E19631-FBF8-4902-B413-0CC5C08952C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D3E19631-FBF8-4902-B413-0CC5C08952C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D3E19631-FBF8-4902-B413-0CC5C08952C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D3E19631-FBF8-4902-B413-0CC5C08952C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C9E7A80-27DC-429E-AB7C-31A72147A0B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C9E7A80-27DC-429E-AB7C-31A72147A0B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C9E7A80-27DC-429E-AB7C-31A72147A0B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C9E7A80-27DC-429E-AB7C-31A72147A0B0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{DA5630DD-012B-49BE-BDA7-60842F826A89} = {9DC1923F-6C6B-41E6-8425-70D2007BDFE5}
-		{D3E19631-FBF8-4902-B413-0CC5C08952C9} = {9DC1923F-6C6B-41E6-8425-70D2007BDFE5}
+		{8C9E7A80-27DC-429E-AB7C-31A72147A0B0} = {9DC1923F-6C6B-41E6-8425-70D2007BDFE5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5E690C0A-E129-454E-B795-6E4156276271}
