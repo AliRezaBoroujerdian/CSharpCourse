@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "E:\\Course\\CSharp\\v2\\Source Code\\CSharpCourse\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3E19631-FBF8-4902-B413-0CC5C08952C9}|S001.ProjectOverview\\P1.Use top-level statements\\P1.Use top-level statements.csproj|e:\\course\\csharp\\v2\\source code\\csharpcourse\\s001.projectoverview\\p1.use top-level statements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3E19631-FBF8-4902-B413-0CC5C08952C9}|S001.ProjectOverview\\P1.Use top-level statements\\P1.Use top-level statements.csproj|solutionrelative:s001.projectoverview\\p1.use top-level statements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5630DD-012B-49BE-BDA7-60842F826A89}|S001.ProjectOverview\\P1.Do not use top-level statements\\P1.Do not use top-level statements.csproj|e:\\course\\csharp\\v2\\source code\\csharpcourse\\s001.projectoverview\\p1.do not use top-level statements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA5630DD-012B-49BE-BDA7-60842F826A89}|S001.ProjectOverview\\P1.Do not use top-level statements\\P1.Do not use top-level statements.csproj|solutionrelative:s001.projectoverview\\p1.do not use top-level statements\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Course\\CSharp\\v2\\Source Code\\CSharpCourse\\S001.ProjectOverview\\P1.Use top-level statements\\Program.cs",
+              "RelativeDocumentMoniker": "S001.ProjectOverview\\P1.Use top-level statements\\Program.cs",
+              "ToolTip": "E:\\Course\\CSharp\\v2\\Source Code\\CSharpCourse\\S001.ProjectOverview\\P1.Use top-level statements\\Program.cs",
+              "RelativeToolTip": "S001.ProjectOverview\\P1.Use top-level statements\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:57:33.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Course\\CSharp\\v2\\Source Code\\CSharpCourse\\S001.ProjectOverview\\P1.Do not use top-level statements\\Program.cs",
+              "RelativeDocumentMoniker": "S001.ProjectOverview\\P1.Do not use top-level statements\\Program.cs",
+              "ToolTip": "E:\\Course\\CSharp\\v2\\Source Code\\CSharpCourse\\S001.ProjectOverview\\P1.Do not use top-level statements\\Program.cs",
+              "RelativeToolTip": "S001.ProjectOverview\\P1.Do not use top-level statements\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T12:56:15.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
